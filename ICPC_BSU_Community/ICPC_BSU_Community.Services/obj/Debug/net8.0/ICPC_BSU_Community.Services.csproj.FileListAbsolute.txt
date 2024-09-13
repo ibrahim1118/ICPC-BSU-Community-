@@ -1,0 +1,12 @@
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\bin\Debug\net8.0\ICPC_BSU_Community.Services.deps.json
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\bin\Debug\net8.0\ICPC_BSU_Community.Services.dll
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\bin\Debug\net8.0\ICPC_BSU_Community.Services.pdb
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\obj\Debug\net8.0\ICPC_BSU_Community.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\obj\Debug\net8.0\ICPC_BSU_Community.Services.AssemblyInfoInputs.cache
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\obj\Debug\net8.0\ICPC_BSU_Community.Services.AssemblyInfo.cs
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\obj\Debug\net8.0\ICPC_BSU_Community.Services.csproj.CoreCompileInputs.cache
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\obj\Debug\net8.0\ICPC_BSU_Community.Services.sourcelink.json
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\obj\Debug\net8.0\ICPC_BSU_Community.Services.dll
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\obj\Debug\net8.0\refint\ICPC_BSU_Community.Services.dll
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\obj\Debug\net8.0\ICPC_BSU_Community.Services.pdb
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.Services\obj\Debug\net8.0\ref\ICPC_BSU_Community.Services.dll

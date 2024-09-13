@@ -1,0 +1,16 @@
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\bin\Debug\net8.0\ICPC_BSU_Community.DataAccess.deps.json
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\bin\Debug\net8.0\ICPC_BSU_Community.DataAccess.dll
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\bin\Debug\net8.0\ICPC_BSU_Community.DataAccess.pdb
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\bin\Debug\net8.0\ICPC_BSU_Community.Data.dll
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\bin\Debug\net8.0\ICPC_BSU_Community.Data.pdb
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\ICPC_BSU_Community.DataAccess.csproj.AssemblyReference.cache
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\ICPC_BSU_Community.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\ICPC_BSU_Community.DataAccess.AssemblyInfoInputs.cache
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\ICPC_BSU_Community.DataAccess.AssemblyInfo.cs
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\ICPC_BSU_Community.DataAccess.csproj.CoreCompileInputs.cache
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\ICPC_BSU_Community.DataAccess.sourcelink.json
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\ICPC_BSU_Community.DataAccess.csproj.CopyComplete
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\ICPC_BSU_Community.DataAccess.dll
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\refint\ICPC_BSU_Community.DataAccess.dll
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\ICPC_BSU_Community.DataAccess.pdb
+E:\Software Engineering\Projects\ICPC_BSU_Community\ICPC-BSU-Community-\ICPC_BSU_Community\ICPC_BSU_Community.DataAccess\obj\Debug\net8.0\ref\ICPC_BSU_Community.DataAccess.dll
